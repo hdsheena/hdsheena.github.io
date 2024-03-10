@@ -4,5 +4,5 @@ Build process:
 3. From base directory, run npx expo export --platform web
 4. Take index.html file and add smartlook snippet.
 5. Replace files in this repository
-6. Build a new release
+6. ~Build a new release~ This step isn't necessary, I just thought it was
 7. Refresh hdsheena.github.io and have a party
